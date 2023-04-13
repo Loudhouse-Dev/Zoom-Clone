@@ -7,14 +7,6 @@
     "devStart": "nodemon server.js"
 
   },
-  "repository": {
-    "type": "git",
-    "url": "simple-zoom-clone"
-  },
-  "keywords": [
-    "socket.io",
-    "webrtc"
-  ],
   "author": "Johnny Howell",
   "license": "ISC",
   "dependencies": {
