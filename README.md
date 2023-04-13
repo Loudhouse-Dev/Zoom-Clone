@@ -1,0 +1,1 @@
+This is a simple video chat application built with WebRTC and Socket.io.
